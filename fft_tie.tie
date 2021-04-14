@@ -1,0 +1,4 @@
+
+state shad_in128	128 add_read_write
+state in128_1		128 add_read_write
+state in128_2		128 add_read_write
